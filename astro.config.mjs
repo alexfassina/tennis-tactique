@@ -16,30 +16,47 @@ export default defineConfig({
 			],
 			sidebar: [
 				{
-					label: 'Introduction',
-					items: [
-						{ label: 'Bienvenue', slug: 'intro' },
-					],
+					label: 'Accueil',
+					link: '/intro',
 				},
 				{
 					label: '1. Progression Rapide',
-					autogenerate: { directory: 'progression' },
+					items: [
+						{ label: 'Les 4 Stratégies', link: '/progression/4-strategies/' },
+						{ label: 'Types de Joueurs', link: '/progression/types-joueurs/' },
+						{ label: 'Principe DNA', link: '/progression/principe-dna/' },
+						{ label: 'ICP', link: '/progression/icp/' },
+					],
 				},
 				{
 					label: '2. La Tactique',
-					autogenerate: { directory: 'tactique' },
+					items: [
+						{ label: 'Cartographie 3D', link: '/tactique/cartographie-3d/' },
+						{ label: 'Stratégies', link: '/tactique/strategies/' },
+						{ label: 'Profils', link: '/tactique/profils/' },
+					],
 				},
 				{
 					label: '3. Le Mental',
-					autogenerate: { directory: 'mental' },
+					items: [
+						{ label: '9 Principes', link: '/mental/9-principes/' },
+						{ label: 'Entre les points', link: '/mental/entre-points/' },
+						{ label: 'État d\'esprit', link: '/mental/etat-esprit/' },
+					],
 				},
 				{
 					label: '4. Le Physique',
-					autogenerate: { directory: 'physique' },
+					items: [
+						{ label: 'Respiration', link: '/physique/respiration/' },
+						{ label: 'Sommeil', link: '/physique/sommeil/' },
+					],
 				},
 				{
 					label: 'Lexique',
-					autogenerate: { directory: 'lexique' },
+					items: [
+						{ label: 'Stratégie', link: '/lexique/strategie/' },
+						{ label: 'Mental', link: '/lexique/mental/' },
+					],
 				},
 			],
 			customCss: ['./src/styles/custom.css'],
