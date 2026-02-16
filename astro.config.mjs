@@ -11,9 +11,9 @@ export default defineConfig({
 			logo: {
 				src: './src/assets/tennis.svg',
 			},
-			social: {
-				github: 'https://github.com/alexfassina/tennis-tactique',
-			},
+			social: [
+				{ icon: 'github', label: 'GitHub', href: 'https://github.com/alexfassina/tennis-tactique' },
+			],
 			sidebar: [
 				{
 					label: 'Introduction',
