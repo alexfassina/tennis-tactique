@@ -59,6 +59,13 @@ export default defineConfig({
 					],
 				},
 			],
+			hero: {
+				title: 'Tennis Tactique',
+				tagline: 'La bible de la progression continue au tennis',
+				image: {
+					html: '<div style="font-size: 4rem;">🎾</div>',
+				},
+			},
 			customCss: ['./src/styles/custom.css'],
 		}),
 	],
