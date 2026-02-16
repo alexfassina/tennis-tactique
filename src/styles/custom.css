@@ -1,0 +1,26 @@
+/* Custom styles for Tennis Tactique */
+:root {
+	--sl-color-accent-low: #009624;
+	--sl-color-accent: #00C853;
+	--sl-color-accent-high: #00e676;
+	--sl-color-white: #ffffff;
+	--sl-color-gray-1: #f8fafc;
+	--sl-color-gray-2: #e2e8f0;
+	--sl-color-gray-3: #cbd5e1;
+	--sl-color-gray-4: #64748b;
+	--sl-color-gray-5: #475569;
+	--sl-color-gray-6: #334155;
+	--sl-color-black: #1a1a2e;
+}
+
+body {
+	background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%);
+}
+
+.hero-html {
+	background: linear-gradient(135deg, #1a1a2e 0%, #16213e 50%, #1a365d 100%) !important;
+}
+
+.site-title {
+	font-family: 'Playfair Display', serif;
+}
