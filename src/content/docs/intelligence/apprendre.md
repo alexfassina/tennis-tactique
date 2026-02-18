@@ -1,37 +1,67 @@
 ---
-title: L'Intelligence au Tennis
-description: Apprendre à apprendre pour progresser
+title: Apprendre à Apprendre
+description: La méta-compétence la plus importante
 ---
 
-## L'Intelligence
+## Apprendre à Apprendre
 
-Le tennis n'est pas qu'un sport physique - c'est aussi un jeu d'intelligence.
+Ton niveau dépend de la qualité de tes questions.
 
-### Apprendre à apprendre
+### La Qualité de Tes Questions
 
-La vraie compétence au tennis n'est pas de savoir jouer - c'est de savoir comment apprendre à jouer.
+Ce sont nos questions qui feront évoluer nos joueurs, pas nos réponses.
 
-### Ton niveau dépend de la qualité de tes questions
+Quand un joueur vient te demander d'avoir un meilleur revers ou à quelle heure il vaut mieux aller se coucher ?
 
-Les bonnes questions mènent aux bonnes réponses.
+Les questions sont l'élément vital de ce que nous faisons.
 
-Les bonnes réponses mènent aux bonnes actions.
+### Les Questions les Plus Puissantes
 
-Les bonnes actions mènent aux résultats.
+1. **Qu'est-ce qui fonctionne ?** - Au lieu de qu'est-ce qui ne fonctionne pas
+2. **Que puis-je améliorer ?** - Au lieu de qu'est-ce qui ne va pas
+3. **Comment puis-je progresser ?** - Au lieu de pourquoi je n'y arrive pas
+4. **Qu'est-ce que je vais faire différemment ?** - Au lieu de qu'est-ce qui m'empêche
 
-**Sois un joueur qui pose des bonnes questions.**
+### Comment Utiliser Ces Questions
 
----
+#### Avant l'Entraînement
 
-## Les 10 Questions de Coaching les plus puissantes
+- Qu'est-ce que je vais travailler ?
+- Quel est mon objectif ?
+- Comment vais-je mesurer ma progression ?
 
-1. Quelle est MA contrainte principale en ce moment ?
-2. Quel est le profil de mon adversaire ?
-3. Quelle est MA zone d'opportunité ?
-4. Quel est mon Seuil de Régularité ?
-5. Quel est mon plan de jeu ?
-6. Qu'est-ce que je peux contrôler ?
-7. Quelle est ma "Réelle Victoire" ?
-8. Quel ICP dois-je améliorer ?
-9. Quelle est ma prochaine action spécifique ?
-10. Qu'est-ce que j'ai appris aujourd'hui ?
+#### Pendant l'Entraînement
+
+- Qu'est-ce qui fonctionne ?
+- Que dois-je ajuster ?
+- Comment puis-je m'améliorer ?
+
+#### Après l'Entraînement
+
+- Qu'est-ce que j'ai appris ?
+- Qu'est-ce qui a fonctionné ?
+- Que vais-je pratiquer la prochaine fois ?
+
+### Les Questions de Coaching
+
+- Quelle est ma contrainte principale ?
+- Quel est mon point faible ?
+- Comment puis-je progresser plus vite ?
+- Quel est mon ICP ce semaine ?
+
+### Le Journal de Progression
+
+Écris tes réponses :
+
+- Chaque entraînement
+- Chaque match
+- Tes apprentissages
+
+### L'auto-Coaching
+
+Deviens ton propre coach :
+
+1. Pose-toi les bonnes questions
+2. Trouve les réponses
+3. Agis sur ce que tu contrôle
+4. Mesure tes progrès
