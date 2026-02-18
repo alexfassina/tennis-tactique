@@ -22,9 +22,15 @@ export default defineConfig({
 				{
 					label: '1. Progression Rapide',
 					items: [
+						{ label: 'Introduction', link: '/progression/introduction/' },
 						{ label: 'Les 4 Stratégies', link: '/progression/4-strategies/' },
+						{ label: 'Les 3 Cerveaux', link: '/progression/3-cerveaux/' },
+						{ label: 'Les 4 Aspects', link: '/progression/4-aspects/' },
 						{ label: 'Types de Joueurs', link: '/progression/types-joueurs/' },
+						{ label: 'Contraintes', link: '/progression/contraintes/' },
+						{ label: '5 Pourquoi', link: '/progression/5-pourquoi/' },
 						{ label: 'Principe DNA', link: '/progression/principe-dna/' },
+						{ label: 'Témoignages', link: '/progression/temoignages/' },
 						{ label: 'ICP', link: '/progression/icp/' },
 					],
 				},
@@ -40,8 +46,10 @@ export default defineConfig({
 					label: '3. Le Mental',
 					items: [
 						{ label: '9 Principes', link: '/mental/9-principes/' },
-						{ label: 'Entre les points', link: '/mental/entre-points/' },
+						{ label: 'Routine entre points', link: '/mental/routine-points/' },
 						{ label: 'État d\'esprit', link: '/mental/etat-esprit/' },
+						{ label: 'Forteresse', link: '/mental/forteresse/' },
+						{ label: 'Relaxation', link: '/mental/relaxation/' },
 					],
 				},
 				{
@@ -49,6 +57,14 @@ export default defineConfig({
 					items: [
 						{ label: 'Respiration', link: '/physique/respiration/' },
 						{ label: 'Sommeil', link: '/physique/sommeil/' },
+						{ label: 'Conscience', link: '/physique/conscience/' },
+					],
+				},
+				{
+					label: '5. Progression Continue',
+					items: [
+						{ label: 'Les 5 Erreurs', link: '/progression-continue/erreurs/' },
+						{ label: '5 Hacks', link: '/progression-continue/hacks/' },
 					],
 				},
 				{
