@@ -24,6 +24,8 @@ description: Développer ta confiance au tennis
 3. **Actions** — small succès quotidiens
 4. **Visualisation** — Vois-toi réussir
 
+![Méditation de la Victoire](../../assets/images/image37.png)
+
 ### Le Saut dans le Vide de Confiance
 
 Quand tu commences à jouer petit bras, à stresser...

@@ -16,6 +16,20 @@ Le SR est le nombre de coups minimum pour gagner un point dans une zone.
 3. Divise les points gagnés par le total
 4. Tu obtiens ton % de réussite
 
+### Les dimensions du terrain
+
+**La profondeur (de 1 à 4)**
+
+![Profondeur](../../assets/images/image14.png)
+
+**La largeur (de A à C)**
+
+![Largeur](../../assets/images/image15.png)
+
+**La hauteur (de 1 à 4)**
+
+![Hauteur](../../assets/images/image16.png)
+
 ### Exemple
 
 Zone : Fond de terrain, revers

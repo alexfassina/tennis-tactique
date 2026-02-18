@@ -21,6 +21,8 @@ Tu travailles la technique mais jamais le mental. Or le mental représente 50% d
 
 Tu joues sans réfléchir, sans plan. Tu espères que ça va marcher.
 
+![Le syndrome du Pilote Automatique](../../assets/images/image57.png)
+
 ### Erreur #5 – Ne pas jouer en fonction du profil de ton adversaire
 
 Tu joues toujours de la même façon, quel que soit l'adversaire.

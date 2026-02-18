@@ -5,6 +5,14 @@ description: Ta raison de jouer au tennis
 
 ## Trouver ta Motivation Ultime
 
+### Trouver ton identité de jeu
+
+« Pourquoi jouer toutes les notes quand il suffit de jouer les plus belles »
+
+![Identité de jeu](../../assets/images/image28.jpg)
+
+![Identité de jeu 2](../../assets/images/image29.jpg)
+
 ### Pourquoi joues-tu au tennis ?
 
 Pas pour le classement. Pas pour gagner.

@@ -25,3 +25,11 @@ La crispation du poignet est une cause majeure de :
 ### Exercise
 
 Secoue tes bras et ta raquette régulièrement entre les points.
+
+---
+
+## La Latéralité
+
+![Latéralité](../../assets/images/image63.jpg)
+
+Comprends ta latéralité pour corriger tes coups.

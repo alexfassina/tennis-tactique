@@ -5,6 +5,12 @@ description: Que faire dans chaque situation de match
 
 ## Situations de Match Courantes
 
+### La technique du RESET
+
+![Technique du RESET](../../assets/images/image49.jpg)
+
+Quand tu es en difficulté, utilise le RESET pour revenir dans le point.
+
 ### 0-0 (Debut de match)
 
 - Etablis ton rythme

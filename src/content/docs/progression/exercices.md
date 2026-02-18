@@ -5,6 +5,8 @@ description: Des drills pourameliorer ton jeu
 
 ## Les Exercices du Tennis Tactique
 
+![Zone d'Apprentissage](../../assets/images/image48.png)
+
 ### Drill 1: Le 10/10
 
 Objectif: Ameliorer la regularite

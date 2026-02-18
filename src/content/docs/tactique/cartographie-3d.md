@@ -11,6 +11,12 @@ Cest un systeme qui divise le terrain en zones pour mieux strategiser.
 
 ![Cartographie des sensations](../../assets/images/image26.jpg)
 
+### Tactique pure : le jeu d'intelligence
+
+![Tactique pure 1](../../assets/images/image50.jpg)
+
+![Tactique pure 2](../../assets/images/image51.jpg)
+
 ### Les 3 Profondeurs
 
 | Zone | Nom | Description |

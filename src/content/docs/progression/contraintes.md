@@ -30,3 +30,15 @@ Tu dois entrer sur le terrain en sachant EXACTEMENT à quoi ressemblera ton entr
 - Jouer trop loin de ta ligne
 
 **Ta contrainte va changer à chaque fois que tu progresseras.**
+
+---
+
+## La Règle des 80/20 (Pareto)
+
+20% de tes efforts produisent 80% de tes résultats. Trouve ces 20% et concentre-toi dessus.
+
+![Règle 80/20](../../assets/images/image56.jpg)
+
+![80/20 application](../../assets/images/image59.jpg)
+
+![Focus 80/20](../../assets/images/image58.jpg)

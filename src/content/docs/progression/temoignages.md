@@ -5,6 +5,12 @@ description: Les résultats des joueurs qui appliquent la méthode
 
 ## Témoignages : Les joueurs qui progressent
 
+![Témoignages 1](../../assets/images/image53.png)
+
+![Témoignages 2](../../assets/images/image55.png)
+
+![Témoignages 3](../../assets/images/image54.png)
+
 ### Michael, 15/5
 
 > "Je suis 15/5, je viens de jouer ce weekend contre un rameur 15/4 sur lequel j'avais perdu en 3 sets il y a quelques mois. J'ai appliqué la méthode du Rouleau Compresseur et cela a fonctionné à merveille, j'ai gagné facilement 6-4 6-1."
