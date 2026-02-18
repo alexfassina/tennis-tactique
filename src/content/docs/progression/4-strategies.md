@@ -1,24 +1,37 @@
 ---
-title: Les 4 Stratégies d'Entreprise
-description: Les fondations de ta progression rapide
+title: Les 4 Stratégies du Tennis Tactique
+description: Les stratégies principales pour dominer tes adversaires
 ---
 
-## Les 4 Stratégies d'Entreprise
+## Les 4 Stratégies Majeures
 
-### #1 - Ta Vision
+### 1. Le Rouleau Compresseur
 
-Quel est ton objectif final ? Définis clairement où tu veux aller. Sans vision, pas de progression possible.
+**Principe** : Jouer très long, très profond, dans la zone adverse pour prendre le contrôle du point.
 
-### #2 - La Théorie des Contraintes
+**Contre qui** : Joueurs offensifs, attaquants
+**Objectif** : Contraindre l'adversaire à jouer en retrait
 
-Par où commencer ta progression ? Identifie le maillon faible de ta chaîne. Travaille en priorité ce qui te freine le plus.
+### 2. Le Bouclier et l'Épée
 
-### #3 - La Règle des 80/20
+**Principe** : Défense solide + opportunité d'attaque
 
-20% des efforts donnent 80% des résultats. Identifie les 20% qui font la différence et concentre-toi dessus.
+**Contre qui** : Joueurs agressifs
+**Objectif** :user
+<function= Attendre que l'adversaire fasse la faute
 
-### #4 - La Méthode des 5 Pourquoi
+### 3. Le Sabotage
 
-Trouve l'élément clé pour progresser en creusant jusqu'à la racine du problème.
+**Principe** : Jouer des coups atypiques pour déstabiliser
 
-> *"La folie, c'est de faire toujours la même chose et de s'attendre à un résultat différent."* — Albert Einstein
+**Contre qui** : Joueurs rigides
+**Objectif** :user
+<function=user
+<function=sortir de sa zone de confort
+
+### 4. L'Accélération
+
+**Principe** : Frapper au bon moment pour terminer le point
+
+**Contre qui** : Joueurs lents
+**Objectif** : Prendre le temps

@@ -1,24 +1,54 @@
 ---
-title: Les 2 Types de Joueurs
-description: Le Stratège et le Zombie
+title: Les Types de Joueurs
+description: Identifie le profil de tes adversaires
 ---
 
-## Les 2 Types de Joueurs
+## Les 6 Profils de Joueurs
 
-### Le Stratège
+### 1. Le Rameur
 
-Celui qui joue avec un plan, qui analyse et s'adapte à son adversaire.
+- Frappe forte
+- Bouge bien
+- Manque de finish
 
-### Le Zombie
+**Contre lui** : Sois patient, pousse-le a faire la faute
 
-Celui qui joue en pilote automatique sans réfléchir. Qui fait toujours la même chose.
+### 2. Le Defensif
 
-Les clubs sont remplis de Zombies qui font des balles puis un match.
+- Retourne tout
+- Attend les fautes
+- Manque d'arme
 
----
+**Contre lui** : Prends des risques calcules
 
-**Le Pilote Automatique (PA):**
+### 3. L'Attaquant
 
-- Tendance des joueurs à jouer et s'entraîner sans réfléchir
-- Le mode PA des apprentis stratèges = jouer sans tactique
-- Le mode PA des vrais stratèges = jouer son plan sans y penser
+- Aime venir au filet
+- Prend le controle
+- Vulnerable sous pression
+
+**Contre lui** : Relegue-le en arriere
+
+### 4. Le Puissant
+
+- Gros service
+- Gros coups
+- Faibles en constance
+
+**Contre lui** : Retourne doucement, varies le jeu
+
+### 5. Le Technique
+
+- Beau tennis
+- Mais fragile mentalement
+- Manque de respondent
+
+**Contre lui** : Mets la pression
+
+### 6. Le Mental
+
+- Resistant
+- Ne lache rien
+- Mais physiquement limite
+
+**Contre lui** : Sois patient, use-le

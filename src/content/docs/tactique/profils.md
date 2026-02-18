@@ -1,48 +1,114 @@
 ---
-title: Profils de Joueurs
-description: Comment identifier et battre chaque type d'adversaire
+title: Les Profils des Joueurs
+description: Analyse les profils pour mieux jouer
 ---
 
-## Profils de Joueurs
+## Comment identifier le profil
 
-### Le Cogneur
+### Questions a se poser
 
-**Exemples:** Berrych, Del Potro
+- Que fait-il bien ?
+- Que ne fait-il pas bien ?
+- Quels sont ses habits ?
+- Comment gère-t-il la pression ?
 
-**Contre:** Stratégie du moustique -变化, variation, le rendre imprévisible
+### Les signaux
 
-### Le Contre-Attaquant
+- Corps tendu = stresse
+- Regard ailleurs = pas concentre
+- Racket trop serré = nerveux
+- Racket detendu = confiant
 
-**Exemples:** Nadal, Murray
+---
 
-**Contre:** Intensité et agressivité, ne pas lui laisser le temps
+## Les 6 Profils Detailles
 
-### Le Vieux Briscard
+### 1. Le Rameur
 
-**Exemples:** Murray, Santoro
+**Definition** : Joueur qui court tout, retourne tout.
 
-**Contre:** Patience et variation, éviter le combat long
+**Points forts** :
+- Endurance
+- Perseverance
+- Ne lâche rien
 
-### Le Rameur
+**Points faibles** :
+- Manque d'armes
+- Fatiguant a jouer
 
-**Exemples:** David Ferrer
+**Tactique** : Trouve son point faible, finis les points.
 
-**Contre:** Méthode du Rouleau-Compresseur - plus fort, plus profond, plus agressif
+### 2. Le Technical
 
-### Le Serveur-Volleyeur
+**Definition** : Beau tennis, main elegante.
 
-**Exemples:** Pat Rafter
+**Points forts** :
+- Coups varies
+- Toucher
+- Intelligents
 
-**Contre:** Attaque sur les lignes, lob
+**Points faibles** :
+- Fragile mentalement
+- Manque de puissance
 
-### Le Showman
+**Tactique** : Mets la pression, acceleration.
 
-**Exemples:** Monfils, Tsonga, Gasquet
+### 3. LAttaquant
 
-**Contre:** Le style sinon rien - rester concentré, ne pas se laisser distraire
+**Definition** : Aime finir les points.
 
-### Le Joueur Complet
+**Points forts** :
+- Vollees
+- Service
+- Agressivite
 
-**Exemples:** Djokovic
+**Points faibles** :
+- Defense faible
+- Fait des fautes
 
-**Contre:** Pas de défaut majeur - travaille ses faiblesses
+**Tactique** : Relegue en arriere, joue long.
+
+### 4. Le Defensif
+
+**Definition** : Attend les fautes.
+
+**Points forts** :
+- Patience
+- Regularite
+- Bien en fond
+
+**Points faibles** :
+- Manque dinitiative
+- Peur dattack
+
+**Tactique** : Prends des risques.
+
+### 5. Le Puissant
+
+**Definition** : Gros coups, beaucoup de force.
+
+**Points forts** :
+- Service
+- Coups puissants
+- Intimidation
+
+**Points faibles** :
+- Technique moyenne
+- Tactique faible
+
+**Tactique** : Retourne profond, varie le jeu.
+
+### 6. Le Mental
+
+**Definition** : Resiste, ne lache rien.
+
+**Points forts** :
+- Regeneration
+- Confiance
+- Combat
+
+**Points faibles** :
+- Physique limite
+- Technique inegale
+
+**Tactique** : Use-le physiquement.

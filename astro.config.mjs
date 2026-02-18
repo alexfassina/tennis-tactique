@@ -23,23 +23,31 @@ export default defineConfig({
 					label: '1. Progression Rapide',
 					items: [
 						{ label: 'Introduction', link: '/progression/introduction/' },
-						{ label: 'Les 4 Stratégies', link: '/progression/4-strategies/' },
+						{ label: 'Les 4 Strategies', link: '/progression/4-strategies/' },
 						{ label: 'Les 3 Cerveaux', link: '/progression/3-cerveaux/' },
 						{ label: 'Les 4 Aspects', link: '/progression/4-aspects/' },
 						{ label: 'Types de Joueurs', link: '/progression/types-joueurs/' },
 						{ label: 'Contraintes', link: '/progression/contraintes/' },
 						{ label: '5 Pourquoi', link: '/progression/5-pourquoi/' },
 						{ label: 'Principe DNA', link: '/progression/principe-dna/' },
-						{ label: 'Témoignages', link: '/progression/temoignages/' },
 						{ label: 'ICP', link: '/progression/icp/' },
+						{ label: 'Temoinages', link: '/progression/temoignages/' },
+						{ label: 'Programme', link: '/progression/programme/' },
+						{ label: 'Analyse de Match', link: '/progression/analyse-match/' },
+						{ label: 'Exercices', link: '/progression/exercices/' },
 					],
 				},
 				{
 					label: '2. La Tactique',
 					items: [
 						{ label: 'Cartographie 3D', link: '/tactique/cartographie-3d/' },
-						{ label: 'Stratégies', link: '/tactique/strategies/' },
+						{ label: 'Zone Opportunite', link: '/tactique/zone-opportunite/' },
+						{ label: 'Seuil de Regularite', link: '/tactique/seuil-regularite/' },
+						{ label: 'Strategies', link: '/tactique/strategies/' },
 						{ label: 'Profils', link: '/tactique/profils/' },
+						{ label: 'Situations de Match', link: '/tactique/situations/' },
+						{ label: 'Tactiques de Service', link: '/tactique/service/' },
+						{ label: 'Tactiques de Retour', link: '/tactique/retour/' },
 					],
 				},
 				{
@@ -47,9 +55,12 @@ export default defineConfig({
 					items: [
 						{ label: '9 Principes', link: '/mental/9-principes/' },
 						{ label: 'Routine entre points', link: '/mental/routine-points/' },
-						{ label: 'État d\'esprit', link: '/mental/etat-esprit/' },
+						{ label: 'Etat esprit', link: '/mental/etat-esprit/' },
 						{ label: 'Forteresse', link: '/mental/forteresse/' },
 						{ label: 'Relaxation', link: '/mental/relaxation/' },
+						{ label: 'Reelle Victoire', link: '/mental/reelle-victoire/' },
+						{ label: 'Motivation', link: '/mental/motivation/' },
+						{ label: 'Confiance', link: '/mental/confiance/' },
 					],
 				},
 				{
@@ -58,6 +69,9 @@ export default defineConfig({
 						{ label: 'Respiration', link: '/physique/respiration/' },
 						{ label: 'Sommeil', link: '/physique/sommeil/' },
 						{ label: 'Conscience', link: '/physique/conscience/' },
+						{ label: 'Emotionnelle', link: '/physique/emotionnelle/' },
+						{ label: 'Suspension', link: '/physique/suspension/' },
+						{ label: 'Poignet', link: '/physique/poignet/' },
 					],
 				},
 				{
@@ -68,9 +82,24 @@ export default defineConfig({
 					],
 				},
 				{
+					label: '6. Intelligence',
+					items: [
+						{ label: 'Apprendre', link: '/intelligence/apprendre/' },
+						{ label: 'Nouveau Coach', link: '/intelligence/nouveau-coach/' },
+					],
+				},
+				{
+					label: 'Ressources',
+					items: [
+						{ label: 'FAQ', link: '/faq/' },
+						{ label: 'A Propos', link: '/about/' },
+						{ label: 'Contact', link: '/contact/' },
+					],
+				},
+				{
 					label: 'Lexique',
 					items: [
-						{ label: 'Stratégie', link: '/lexique/strategie/' },
+						{ label: 'Strategie', link: '/lexique/strategie/' },
 						{ label: 'Mental', link: '/lexique/mental/' },
 					],
 				},

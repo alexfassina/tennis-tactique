@@ -1,34 +1,72 @@
 ---
-title: Concepts Mentaux
-description: Le vocabulaire du mental
+title: Mental - Lexique
+description: Les termes du mental au tennis
 ---
 
-## Concepts Mentaux
+## Lexique Mental
 
-### Vrai Niveau
+### A
 
-C'est le niveau réel auquel tu joues. L'enjeu, les pensées parasites, le fait de ne pas jouer ta Propre Victoire t'empêchent de jouer ton Vrai Niveau.
+**Analyse**
+Processus de reflexion apres un match pour identifier les points a ameliorer.
 
-### Tennis Libéré
+**Attitude**
+Disposition mentale et comportementale sur le terrain.
 
-Le but du mental est de pouvoir libérer ton tennis. Te libérer de tes peurs.
+### C
 
-### Tennisman Libre
+**Concentration**
+Capacite a rester focalise sur le present.
 
-Joueur de tennis qui s'est libéré de la pression de la victoire et de la défaite.
+**Confiance**
+Croyance en ses Capacites a reussir.
 
-### La Résistance Intérieure
+**Controle**
+Capacite a gerer ses emotions et ses actions.
 
-Les pensées, croyances, désirs, actions qui vont dans la direction opposée de ton objectif et t'empêche de jouer ton "Vrai Niveau".
+### F
 
-### La Forteresse Intérieure
+**Focus**
+Attention dirigee vers une tache specifique.
 
-Forteresse mentale qui permet de protéger ta Propre Victoire des "attaques de pensées".
+**Forteresse**
+Zone mentale protegee des pensees negatives.
 
-### Le Problème de Limite Supérieure
+### I
 
-Concept du thérapeute Gay Hendricks. C'est quand le joueur commence à créer une pensée négative alors qu'il joue très bien.
+**ICP (Indicateur Cle de Performance)**
+Metrique specifique pour evaluer sa performance.
 
-### Non-Attachement
+### M
 
-Niveau mental dans lequel tu n'es pas attaché aux résultats. Il n'y a pas d'attache émotionnelle.
+**Motivation**
+Force interieure qui pousse a agir.
+
+### P
+
+**Presence**
+Etat de conscience totale du moment present.
+
+**Processus**
+Attention aux actions plutot quaux resultats.
+
+### R
+
+**Routine**
+Sequence dactions repetitives avant ou entre les points.
+
+**Relaxation**
+Detente physique et mentale.
+
+### S
+
+**Stress**
+Reponse physiologique a une situation perçue comme difficile.
+
+### V
+
+**Visualisation**
+Technique de meditation par limagination.
+
+**Victoire**
+Resultat dun match ou dune competition.

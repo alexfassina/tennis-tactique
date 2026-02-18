@@ -1,42 +1,60 @@
 ---
-title: Les 9 Principes du Mental Invincible
-description: Les fondations mentales pour réussr
+title: Les 9 Principes du Tennis Mental
+description: Les regles pour un mental dacier
 ---
 
-## Les 9 Principes du Mental Invincible
+## Les 9 Principes du Tennis Mental
 
-### 1. Ne jamais penser à la technique en match
+### 1. Present
 
-La technique s'entraîne, ne se pense pas. Laisse ton corps parler.
+Sois dans le moment. Ne pense pas au passe ni au futur.
 
-### 2. Faire douter l'adversaire
+### 2. Processus
 
-Ne pas jouer en réaction, rester impassible. Sois imprévisible.
+Concentre-toi sur ce que tu fais, pas sur le resultat.
 
-### 3. Objectif de Résultat vs Objectif de Comportement
+### 3. Progres
 
-Concentre-toi sur ton plan de jeu, pas sur le score. Contrôle ce que tu peux contrôler.
+Chaque match est une occasion de progresser.
 
-### 4. Crée ta "Réelle Victoire"
+### 4. Pacience
 
-Trouve ce qui est plus important que de gagner. C'est ce qui te fera gagner.
+Le tennis est un sport de patience.
 
-### 5. Le Quadrant de Performance
+### 5. Perseverance
 
-Grille de lecture du tennis. Analyse pourquoi tu gagnes ou perds.
+Ne jamais abandonner.
 
-### 6. Ton niveau d'intensité optimal
+### 6. Presence
 
-Trouve ton intensité de 0 à 10. Chaque joueur a un niveau optimal différent.
+Occupe ton espace sur le terrain.
 
-### 7. Jouer aussi bien en match qu'à l'entraînement
+### 7. Protection
 
-Entraîne-toi comme tu joues. Reproduis les conditions de match.
+Protege ta Forteresse Interieure.
 
-### 8. Joue comme si tu allais mourir demain
+### 8. Preparation
 
-Donne tout ce que tu as. Sans retenue, sans peur.
+Prepare-toi mentalement avant chaque match.
 
-### 9. Te concentrer sur ce que tu contrôles
+### 9. Perspective
 
-Lâche ce qui ne dépend pas de toi. Le vent, le score, l'arbitre...
+Garde la vue densemble.
+
+---
+
+## LEtat dEsprit Gagnant
+
+### Caracteristiques
+
+- Confiance calme
+- Detendu mais concentre
+- Accepte les erreurs
+- Adapte sa tactique
+
+### Comment ldeveloper
+
+- Meditation
+- Visualisation
+- Respiration
+- Routine pre-match

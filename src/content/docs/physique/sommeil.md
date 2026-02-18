@@ -1,24 +1,49 @@
 ---
-title: Sommeil et Récupération
-description: La clé de la performance
+title: Le Sommeil
+description: Lelement le plus important pour la recuperation
 ---
 
-## Super Sommeil et Récupération
+## Le Sommeil pour la Performance
 
-### Les bases
+### Pourquoi le sommeil est crucial
 
-- **7-9 heures de sommeil**
-- **Routine du soir** - déconnecter du tennis
-- **Hydratation** - 2L par jour minimum
-- **Étirements avant dormir**
+- Recuperation musculaire
+- Consolidation de la memoire motrice
+- Regulation hormonale
+- Mental au top
 
-### Tips récupération
+### Les regles du sommeil
 
-- Magnesium après les matchs
-- Glace sur les articulations
-- Massage
-- Meditation
+1. **7-9 heures** par nuit
+2. **Heure fixe** de coucher
+3. **Pas decran** 1h avant
+4. **Piece fraiche** (18-20°C)
+5. **Obscurite totale**
 
-### La gratitude
+### Le pouvoir de la sieste
 
-Un meilleur physique grâce à la gratitude. Sois reconnaissant pour ton corps qui te permet de jouer.
+- 20-30 minutes suffisent
+- Avant 15h
+- Pas plus longtemps (sinon fatigue)
+
+---
+
+## La Nutrition du Tennis
+
+### Avant le match
+
+- Repas riche en glucides 2-3h avant
+- Evite les fats et fibres
+- Hydrate-toi bien
+
+### Pendant le match
+
+- Eau regulierement
+- Banane pour lenergie
+- electrolytes si match long
+
+### Apres le match
+
+- Proteines en 30 min
+- Glucides pour recharger
+- Hydratation

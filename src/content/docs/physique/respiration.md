@@ -1,18 +1,50 @@
 ---
 title: La Respiration
-description: La base de toute performance
+description: Le secret de la detente et de la performance
 ---
 
-## Comment respirer efficacement au tennis ?
+## La Respiration au Tennis
 
-La respiration est la base de toute performance. Une bonne respiration permet :
+### Pourquoi la respiration compte
 
-- **Gérer le stress**
-- **Maintenir ton énergie**
-- **Récupérer plus vite** entre les points
+- Controle le stress
+- Maintien lenergie
+- Aide la concentration
+- Facilite la detente
 
-### Tips
+### La respiration abdominale
 
-- Respire par le nez
-- Exhale complètement
-- Maintiens un rythme régulier
+1. Inspire par le nez en gonflant le ventre
+2. Maintiens quelques secondes
+3. Expire par la bouche
+
+### La respiration carree
+
+- 4 secondes inspiration
+- 4 secondes apnee
+- 4 secondes expiration
+- 4 secondes apnee
+
+### Quand respirer
+
+- Entre les points
+- Avant de servir
+- Quand tu sens le stress monter
+- Quand tu es fatigue
+
+---
+
+## La Preparation Physique
+
+### Les 4 piliers
+
+1. **Cardio** - Endurance de base
+2. **Renforcement** - Musculation fonctionnelle
+3. **Souplesse** - Etirements et mobilite
+4. **Coordination** - Agilite et dexterite
+
+### Minimum pour un joueur de club
+
+- 2 seances de cardio par semaine
+- 1 seance de renforcement
+- Etirements quotidiens

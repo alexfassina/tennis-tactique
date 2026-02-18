@@ -1,35 +1,69 @@
 ---
-title: Concepts Stratégiques
-description: Les concepts clés de la stratégie
+title: Strategie - Lexique
+description: Les termes de strategie au tennis
 ---
 
-## Concepts Stratégiques
+## Lexique Strategie
 
-### Le Trône
+### A
 
-Comme aux échecs, c'est la place du roi. L'endroit où tu es le plus à l'aise. Pour un serveur-volleyeur, c'est au filet.
+**Accélération**
+Action de jouer plus vite pour prendre de vitesse ladversaire.
 
-### La Faille
+**Amorti**
+Coup doux qui fait passer la balle juste au-dessus du filet.
 
-Zone qui permet d'obtenir des fautes directes, des balles plus faciles ou des balles courtes. De ton côté, c'est la zone où tu donnes des points facile
+### B
 
-### Bouclier et Épée
+**Bâche**
+Zone derriere la ligne de fond de court.
 
-- **Bouclier**: Ton coup faible. Ne cherche pas à avoir un revers aussi fort que le coup droit.
-- **Épée**: Ton point fort. Objectif = avoir un Bouclier tellement neutralisant qu'il donne envie à l'adversaire de jouer sur ton Épée.
+**Break**
+Prendre le service de ladversaire.
 
-### Jauge de Pression (JP)
+### C
 
-À chaque coup, tu fais monter la JP de ton adversaire. Tu peux faire monter la JP en le faisant courir, en jouant long, en jouant des zones clés...
+**Contre-pied**
+Jouer dans la direction opposee a celle attendue.
 
-### Point de Rupture (PR)
+**Crevette**
+Jouer tres pres de la ligne de fond.
 
-Le moment où un joueur va craquer - faire une faute ou jouer une balle plus courte. C'est le moment où tu prends l'avantage.
+### D
 
-### Seuil de Régularité (SR)
+**Deep**
+Balle profonde, pres de la ligne de fond.
 
-Nombre d'échanges après lequel un joueur se dit "je dois tenter quelque chose". Certains ont un SR de 3, d'autres de 10.
+### L
 
-### Zone d'Opportunité (ZO)
+**Lob**
+Balle haute qui passe au-dessus de ladversaire.
 
-Zone au milieu du terrain (profondeur 3) où 99% des joueurs de club font des fautes. C'est la Zone à maîtriser pour passer rapidement 2ème série.
+### M
+
+**Montée**
+Aller au filet apres avoir frappe.
+
+### P
+
+**Passing-shot**
+Coup qui passe ladversaire monte au filet.
+
+**Prime**
+Premier service qui ne peut etre retournee.
+
+### R
+
+**Regularite**
+Capacite a refaire le meme coup plusieurs fois.
+
+**Return**
+Retour de service.
+
+### S
+
+**Smash**
+Coup puissant execute au-dessus de la tete.
+
+**Slice**
+Coup coupe qui donne un effet lateral.

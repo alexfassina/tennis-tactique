@@ -1,26 +1,58 @@
 ---
-title: Les Stratégies de Match
-description: Tactiques pour gagner tes matchs
+title: Les Strategies du Tennis Tactique
+description: Les tactiques pour gagner vos matches
 ---
 
-## Les Stratégies de Match
+## Les Strategies Fondamentales
 
-### 1. Débordement Tactique
+### Strategie 1: Le Contre
 
-Fais plier ton adversaire en variant les coups et les zones.
+Joue le contrairent de ton adversaire.
 
-### 2. L'Essuie-Glace
+- Si aime leffort → joue long
+- Si aime attaque → joue defensif
+- Si adore le net → garde-bas
 
-Fais courir ton adversaire d'un côté à l'autre jusqu'à ce qu'il craque.
+### Strategie 2: La Variation
 
-### 3. Le Marteau-Pilon
+Change de rythme, de hauteur, de direction.
 
-Frappe fort et directo dans le Point de Rupture pour conclure.
+- Lobe + amorti
+- Profond + court
+- Droit + revers
 
-### 4. L'Accordéon Vertical
+### Strategie 3: LOccupation
 
-Casse le rythme : alterne balles hautes et basses pour provoquer des fautes.
+Controle lespace.
 
-### 5. Gagner son Service
+- Prends le controle du milieu
+- Ecarte ladversaire
+- Monte au filet au bon moment
 
-L'enchaînement "Gauche-Droite" de la boxe anglaise.
+### Strategie 4: La Pression
+
+Mets la pression sur ladversaire.
+
+- Retourne tot
+- Joue dans les pieds
+- acceleration sur le deuxieme service
+
+---
+
+## Les Situations de Match
+
+### 0-40, 15-40
+
+Sois defensif,-safe. Laisse ladversaire gagner.
+
+### 40-0, 40-15
+
+Sois patient, continue ce qui marche.
+
+### Tie-break
+
+Focalise-toi sur ton service.
+
+### 3eme set
+
+Gestion physique et mentale.

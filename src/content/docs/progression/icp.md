@@ -1,18 +1,41 @@
 ---
-title: Les ICP
-description: Indicateurs Clés de Performance
+title: LICP - Indicateur Cle de Performance
+description: Mesure ce qui compte vraiment
 ---
 
-## Les ICP - Indicateurs Clés de Performance
+## LICP - Indicateur Cle de Performance
 
-Note chacun de 1 à 10 :
+### Quest-ce que lICP ?
 
-- **Niveau de Relâchement** - Es-tu détendu sur le terrain ?
-- **Niveau d'Intensité** - Quel est ton niveau d'énergie ?
-- **Niveau d'Engagement** - Es-tu présent à 100% ?
-- **Niveau de Rigueur** - Suis-tu ton plan de jeu ?
-- **Niveau de Sérénité** - Es-tu calme sous pression ?
+Un ICP est un indicateur specifique qui mesure ta performance sur un aspect precis de ton jeu.
 
-### Crée tes propres ICP
+### Pourquoi lutiliser ?
 
-Tu peux créer tes propres indicateurs en fonction de tes objectifs et de ton style de jeu.
+- Te concentrer sur le processus
+- Evaluer ta progression
+- Identifier tes points a ameliorer
+
+### Exemples dICP
+
+**Technique**
+- % premier service
+- % balles gagnees en zone 3
+- Reussite des montées au filet
+
+**Tactique**
+- Nombre de cambios de direction
+- Points gagnes sur deuxiesme service
+
+**Mental**
+- Nombre de hesitations
+- Temps entre les points
+
+### Comment choisir son ICP
+
+1. Identifie ta contrainte principale
+2. Choisis un indicateur mesurable
+3. suis-le pendant 4 a 6 seances
+
+### Le suivi
+
+Note tes ICP apres chaque match pour voir ta progression.

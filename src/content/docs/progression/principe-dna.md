@@ -1,20 +1,53 @@
 ---
 title: Le Principe DNA
-description: Défense → Neutre → Attaque
+description: Decouvre-North-Adapt: la methode pour analyser et s'adapter
 ---
 
 ## Le Principe DNA
 
-Le Principe DNA est introduit par Will Hamilton. Le principe DNA est le fait de respecter cet ordre :
+### Decouvre
 
-### D → N → A
+Analyse ton adversaire :
+- Ses points forts
+- Ses points faibles
+- Son style de jeu
+- Ses habitudes
 
-**D**éfense → **N**eutre → **A**ttaque
+### North (Regle)
 
-C'est l'équivalent de la loi universelle de gravitation. Tout comme certains magiciens peuvent léviter, certains joueurs pros arrivent à sortir des coups extraordinaires qui sortent de ce schéma.
+Etablis ta regle pour le match :
+- Quelle tactique utiliser
+- Quel plan B si ca ne marche pas
+- Quelle est ta Reelle Victoire
 
-### Son Corollaire
+### Adapt (Adapte)
 
-**Il ne faut jamais passer de Défense à Attaque.**
+Sois pret a ajuster :
+- Si l'adversaire sadapte
+- Si ta tactique ne marche pas
+- Si les conditions changent
 
-Ce principe permet d'augmenter considérablement ton **Seuil de Régularité (SR)**.
+---
+
+## L'ICP - Indicateur Cle de Performance
+
+### Quest-ce que lICP ?
+
+Cest un indicateur specifique que tu suis pendant le match pour evaluer ta performance.
+
+### Exemples dICP
+
+- Mon % de premier service
+- Ma reussite en zone 3
+- Nombre de montées au filet
+- Mon nombre de fautes directes
+
+### Comment lutiliser
+
+1. Choisis 1 a 3 ICP avant le match
+2. Seule ces metriques comptent
+3. Analyse apres le match
+
+### Pourquoi ca marche
+
+Ca deplace ton attention du resultat vers le processus.

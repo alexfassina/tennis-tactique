@@ -1,40 +1,52 @@
 ---
 title: La Cartographie 3D
-description: Quadriller le terrain pour gagner dans le temps
+description: Le systeme de zones de terrain
 ---
 
 ## La Cartographie 3D
 
-Concept issu de Yann Auzoux. Quadrillage du terrain selon 3 dimensions pour gagner dans la 4ème dimension : **le temps**.
+### Quest-ce que la Cartographie 3D ?
 
-### La Profondeur (1 à 4)
+Cest un systeme qui divise le terrain en zones pour mieux strategiser.
 
-| Niveau | Description |
-|--------|-------------|
-| 1 | Fond du court |
-| 2 | Milieu du terrain |
-| 3 | Zone d'opportunité |
-| 4 | Près du filet |
+### Les 3 Profondeurs
 
-### La Largeur (A à C)
+| Zone | Nom | Description |
+|------|-----|-------------|
+| Zone 1 | Zone defensive | Tres pres de la ligne de fond |
+| Zone 2 | Zone neutre | Milieu du terrain |
+| Zone 3 | Zone offensive | Près du filet |
 
-| Niveau | Description |
-|--------|-------------|
-| A | Couloir extérieur |
-| B | Milieu |
-| C | Couloir intérieur |
+### Zone 1: Zone Défensive
 
-### La Hauteur (1 à 4)
+- Tu es en difficult
+- Ton adversaire a le controle
+- Objectif: Sortir de cette zone
 
-| Niveau | Description |
-|--------|-------------|
-| 1 | Lob haut |
-| 2 | Balle haute |
-| 3 | Balle mi-haute |
-| 4 | Balle rasante |
+### Zone 2: Zone Neutre
+
+- Echange equilibre
+- Aucun avantage clair
+- Objectif: Prendre le controle
+
+### Zone 3: Zone Offensive
+
+- Tu as le controle
+- Ladversaire est en difficult
+- Objectif: Finir le point
 
 ---
 
-### Cartographie Tactique Intelligente
+## LUtilisation Tactique
 
-Zone à jouer en fonction de ta position sur le terrain. Ces zones permettent de maximiser ton % de chances de gagner le point.
+### En defense
+
+Reste dans la Zone 2 et essaie de remonter en Zone 1 adverse.
+
+### En attaque
+
+Pousse ladversaire en Zone 1 et monte en Zone 3.
+
+### En transition
+
+Change de rythme pour passer dune zone a lautre.
