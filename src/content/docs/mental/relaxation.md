@@ -12,6 +12,8 @@ description: Le secret du relâchement et de la puissance
 - Tension accumulée
 - Mauvaise respiration
 
+![Le Relâchement Total](../../assets/images/image27.png)
+
 ### Comment obtenir ce Relâchement Total
 
 #### Jouer par Peur ou par Amour
@@ -22,3 +24,5 @@ description: Le secret du relâchement et de la puissance
 ### La voie de la libération des traumas
 
 Le tennis peut faire remonter des émotions enfouies. Le travail mental permet de se libérer de ces blocs.
+
+![Libération des traumas](../../assets/images/image35.jpg)

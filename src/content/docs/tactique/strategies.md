@@ -17,9 +17,11 @@ Joue le contrairent de ton adversaire.
 
 Change de rythme, de hauteur, de direction.
 
-- Lobe + amorti
+- Lob + amorti
 - Profond + court
 - Droit + revers
+
+![Variation](../../assets/images/image17.png)
 
 ### Strategie 3: LOccupation
 
@@ -28,6 +30,14 @@ Controle lespace.
 - Prends le controle du milieu
 - Ecarte ladversaire
 - Monte au filet au bon moment
+
+![Débordement Tactique](../../assets/images/image18.jpg)
+
+![Essuie-Glace](../../assets/images/image19.jpg)
+
+![Marteau-Pilon](../../assets/images/image20.jpg)
+
+![Service Gauche-Droite](../../assets/images/image21.png)
 
 ### Strategie 4: La Pression
 

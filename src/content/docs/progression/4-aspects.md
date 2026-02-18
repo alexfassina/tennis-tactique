@@ -14,6 +14,8 @@ Aujourd'hui, le tennis se focalise sur la Technique et le Physique. Les aspects 
 3. **Tactique** — Comment tu gagnes les points
 4. **Mental** — Ta tête et tes émotions
 
+![Quadrant de Performance](../../assets/images/image9.jpg)
+
 ### Ce en quoi nous croyons
 
 C'est qu'il est possible de progresser rapidement au tennis grâce à une approche différente et en développant les **2 aspects les moins travaillés** : la tactique et le mental.

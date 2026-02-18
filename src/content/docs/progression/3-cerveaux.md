@@ -7,6 +7,8 @@ description: Le tennis développe tes 3 cerveaux
 
 Paul MacLean est un neuroscientifique du XXème siècle. Il a modélisé le cerveau selon 3 couches qui se sont superposées avec l'évolution :
 
+![Les 3 cerveaux](../../assets/images/image40.gif)
+
 ### Les 3 Cerveaux
 
 | Cerveau | Période | Fonction |

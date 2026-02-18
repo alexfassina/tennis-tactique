@@ -26,6 +26,14 @@ Joue des volées en face-à-face avec un partenaire. Pas de mouvement, juste la 
 - Joue le camp adverse
 - Sois prêt tôt
 
+![Diagramme retour de service](../../assets/images/image24.jpg)
+
 ### Hack #5 – Augmenter ton Seuil de Régularité
 
 Trouve ta **Profondeur de Jeu Idéale** — la profondeur qui te donne le plus de chances de gagner le point sans faire de faute.
+
+![Position Nadal Del Potro](../../assets/images/image32.png)
+
+![Position Berdych](../../assets/images/image11.png)
+
+![Position moyenne Del Potro Phau](../../assets/images/image38.png)

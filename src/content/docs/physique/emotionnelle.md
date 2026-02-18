@@ -13,12 +13,16 @@ Tes émotions se manifestent physiquement :
 - **Peur** → Corps rigide, souffle court
 - **Confiance** → Respiration calme, corps détendu
 
+![Préparation émotionnelle](../../assets/images/image22.png)
+
 ### La respiration au tennis
 
 Une bonne respiration te permet de :
 - Gérer le stress
 - Maintenir ton énergie
 - Récupérer plus vite entre les points
+
+![Cartographie émotionnelle](../../assets/images/image33.jpg)
 
 ### Exercices de respiration
 

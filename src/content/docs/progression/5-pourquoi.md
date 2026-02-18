@@ -7,6 +7,8 @@ description: Trouver l'élément clé pour progresser
 
 Cette méthode permet de creuser jusqu'à la racine du problème.
 
+![Méthode des 5 pourquoi](../../assets/images/image36.png)
+
 ### Comment ça marche ?
 
 Quand tu identifies un problème, tu demandes "Pourquoi ?" jusqu'à 5 fois pour trouver la vraie cause.

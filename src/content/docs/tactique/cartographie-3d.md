@@ -9,6 +9,8 @@ description: Le systeme de zones de terrain
 
 Cest un systeme qui divise le terrain en zones pour mieux strategiser.
 
+![Cartographie des sensations](../../assets/images/image26.jpg)
+
 ### Les 3 Profondeurs
 
 | Zone | Nom | Description |

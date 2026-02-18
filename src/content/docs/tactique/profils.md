@@ -21,6 +21,12 @@ description: Analyse les profils pour mieux jouer
 
 ---
 
+## Les Profils en images
+
+![Tactique profils 1](../../assets/images/image12.jpg)
+
+![Tactique profils 2](../../assets/images/image13.png)
+
 ## Les 6 Profils Detailles
 
 ### 1. Le Rameur

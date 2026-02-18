@@ -13,6 +13,8 @@ Une meilleure conscience de ton corps permet :
 - Jouer plus détendu
 - Plus de puissance
 
+![Conscience corporelle](../../assets/images/image41.jpg)
+
 ### Exercises
 
 1. **Auto-massage** — Avant et après les matchs

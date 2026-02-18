@@ -13,6 +13,8 @@ Analyse ton adversaire :
 - Son style de jeu
 - Ses habitudes
 
+![Principe DNA](../../assets/images/image62.png)
+
 ### North (Regle)
 
 Etablis ta regle pour le match :

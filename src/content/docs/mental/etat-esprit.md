@@ -12,6 +12,8 @@ description: Developpe letat desprit optimal pour jouer
 3. **Optimal** - Tu es concentrate et detendu
 4. **Parfait** - Tu es dans la zone
 
+![État d'esprit fixe vs développement](../../assets/images/image25.png)
+
 ### Comment atteindre letat optimal
 
 - Respiration profonde

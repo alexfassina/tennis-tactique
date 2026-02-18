@@ -9,6 +9,8 @@ description: Là où ton destin se joue
 
 Zone qui se situe au milieu du terrain (profondeur 3) et où une bonne partie des joueurs de club mettent les balles dans le filet ou la bâche.
 
+![Zone d'opportunité](../../assets/images/image60.png)
+
 ### Pourquoi c'est important
 
 - **99% des joueurs ne s'entraînent jamais dans la ZO**

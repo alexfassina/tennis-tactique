@@ -5,7 +5,15 @@ description: Identifie le profil de tes adversaires
 
 ## Les 6 Profils de Joueurs
 
-### 1. Le Rameur
+### 1. Le Vieux Briscard
+
+- Expérimenté
+- Calme
+- Difficile à bouger
+
+![Le Vieux Briscard](../../assets/images/image1.jpg)
+
+### 2. Le Rameur
 
 - Frappe forte
 - Bouge bien
@@ -13,15 +21,9 @@ description: Identifie le profil de tes adversaires
 
 **Contre lui** : Sois patient, pousse-le a faire la faute
 
-### 2. Le Defensif
+![Le Rameur](../../assets/images/image2.png)
 
-- Retourne tout
-- Attend les fautes
-- Manque d'arme
-
-**Contre lui** : Prends des risques calcules
-
-### 3. L'Attaquant
+### 3. Le Serveur-Volleyeur
 
 - Aime venir au filet
 - Prend le controle
@@ -29,7 +31,9 @@ description: Identifie le profil de tes adversaires
 
 **Contre lui** : Relegue-le en arriere
 
-### 4. Le Puissant
+![Le Serveur-Volleyeur](../../assets/images/image4.png)
+
+### 4. Le Contre-Attaquant
 
 - Gros service
 - Gros coups
@@ -37,13 +41,17 @@ description: Identifie le profil de tes adversaires
 
 **Contre lui** : Retourne doucement, varies le jeu
 
-### 5. Le Technique
+![Le Contre-Attaquant](../../assets/images/image6.jpg)
 
-- Beau tennis
-- Mais fragile mentalement
-- Manque de respondent
+### 5. Le Cogneur
 
-**Contre lui** : Mets la pression
+- Aime dicter le jeu
+- Tactique simpliste
+- Vulnerable quand onvari
+
+**Contre lui** : Varier le jeu, attaques les angles
+
+![Le Cogneur](../../assets/images/image7.png)
 
 ### 6. Le Mental
 
